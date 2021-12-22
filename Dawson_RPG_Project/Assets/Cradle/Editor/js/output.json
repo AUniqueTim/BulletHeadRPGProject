@@ -1,0 +1,743 @@
+{
+    "console": [],
+    "result": {
+        "passages": [
+            {
+                "Name": "BulletHeadIntro",
+                "Pid": "1",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "WHAT THE FUCK WAS THAT? THAT WASN'T A GRUE!!! I MEAN...WHAT THE HELL IS A GRUE, ANYWAY?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "AND...WHERE AM I? WHAT THE HELL IS GOING ON HERE?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"I haven't quite figured that out yet.\",\"BHINTRO2\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"I haven't quite figured that out yet.\",\"BHINTRO2\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "I haven't quite figured that out yet.",
+                                "text": "\"I haven't quite figured that out yet.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHINTRO2",
+                                "text": "\"BHINTRO2\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Uh, you're...talking to me?\",\"4THWALL\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Uh, you're...talking to me?\",\"4THWALL\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Uh, you're...talking to me?",
+                                "text": "\"Uh, you're...talking to me?\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "4THWALL",
+                                "text": "\"4THWALL\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "BHINTRO2",
+                "Pid": "2",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Yeah, well...you and me both pal! I just sort of...appeared here all of a sudden...wherever here is.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"It seems to be some kind of text adventure role-playing game featuring a turn based battle system\",\"BHINTRO3\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"It seems to be some kind of text adventure role-playing game featuring a turn based battle system\",\"BHINTRO3\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "It seems to be some kind of text adventure role-playing game featuring a turn based battle system",
+                                "text": "\"It seems to be some kind of text adventure role-playing game featuring a turn based battle system\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHINTRO3",
+                                "text": "\"BHINTRO3\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Wait a sec, let's back up...\",\"BulletHeadIntro\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Wait a sec, let's back up...\",\"BulletHeadIntro\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Wait a sec, let's back up...",
+                                "text": "\"Wait a sec, let's back up...\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BulletHeadIntro",
+                                "text": "\"BulletHeadIntro\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "4THWALL",
+                "Pid": "3",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "You see anybody else in here?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"I don't see anybody, period\",\"BHSPRITE\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"I don't see anybody, period\",\"BHSPRITE\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "I don't see anybody, period",
+                                "text": "\"I don't see anybody, period\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHSPRITE",
+                                "text": "\"BHSPRITE\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"No, I suppose not...so...who are you?\",\"BHINTRO4\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"No, I suppose not...so...who are you?\",\"BHINTRO4\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "No, I suppose not...so...who are you?",
+                                "text": "\"No, I suppose not...so...who are you?\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHINTRO4",
+                                "text": "\"BHINTRO4\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "BHINTRO3",
+                "Pid": "4",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Video game, huh? That sounds dumb.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"I guess that depends on your point of view\",\"POV\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"I guess that depends on your point of view\",\"POV\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "I guess that depends on your point of view",
+                                "text": "\"I guess that depends on your point of view\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "POV",
+                                "text": "\"POV\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"You sound dumb.\",\"DUMB\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"You sound dumb.\",\"DUMB\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "You sound dumb.",
+                                "text": "\"You sound dumb.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "DUMB",
+                                "text": "\"DUMB\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "BHSPRITE",
+                "Pid": "5",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Ah, that's a little better...at least I'm not some nebulous disembodied narration now.  Wait a minute...what the fuck!? Why do I have a bucket on my head?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"I think it's supposed to be a bullet. Seems like you're the main character in this video game.\",\"BHINTRO3\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"I think it's supposed to be a bullet. Seems like you're the main character in this video game.\",\"BHINTRO3\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "I think it's supposed to be a bullet. Seems like you're the main character in this video game.",
+                                "text": "\"I think it's supposed to be a bullet. Seems like you're the main character in this video game.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHINTRO3",
+                                "text": "\"BHINTRO3\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    }
+                ]
+            },
+            {
+                "Name": "POV",
+                "Pid": "6",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Sure. Whatever.  Look...whatever this is, it's freaking me out a bit. Can we just get on with it? Get eaten by a Grue, or don't...I mean...whatever man, I just want to get out of here.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Maybe we can help each other out.\",\"HELP\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Maybe we can help each other out.\",\"HELP\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Maybe we can help each other out.",
+                                "text": "\"Maybe we can help each other out.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "HELP",
+                                "text": "\"HELP\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Hahaha...no. I control you, we'll proceed as I see fit.\",\"CONTROL\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Hahaha...no. I control you, we'll proceed as I see fit.\",\"CONTROL\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Hahaha...no. I control you, we'll proceed as I see fit.",
+                                "text": "\"Hahaha...no. I control you, we'll proceed as I see fit.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "CONTROL",
+                                "text": "\"CONTROL\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "DUMB",
+                "Pid": "7",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Real mature. Dummy.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"This isn't getting us anywhere.\",\"BHINTRO3\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"This isn't getting us anywhere.\",\"BHINTRO3\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "This isn't getting us anywhere.",
+                                "text": "\"This isn't getting us anywhere.\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BHINTRO3",
+                                "text": "\"BHINTRO3\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": " ",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "Name": "BHINTRO4",
+                "Pid": "8",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "I'm Bullethead.  Wait...what?  How do I even know this...I didn't even exist a second ago and now I'm introducing myself...Christ...well, I guess that's as good a name as any.  So yeah.  Bullethead. That's me.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Okay, so, uh... we go where from here?\",\"WORLDMAP1\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Okay, so, uh... we go where from here?\",\"WORLDMAP1\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Okay, so, uh... we go where from here?",
+                                "text": "\"Okay, so, uh... we go where from here?\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "WORLDMAP1",
+                                "text": "\"WORLDMAP1\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"I'm confused, can we start this coversation over again?\",\"BulletHeadIntro\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"I'm confused, can we start this coversation over again?\",\"BulletHeadIntro\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "I'm confused, can we start this coversation over again?",
+                                "text": "\"I'm confused, can we start this coversation over again?\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "BulletHeadIntro",
+                                "text": "\"BulletHeadIntro\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "WORLDMAP1",
+                "Pid": "9",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "You emerge from the total darkness into a dimly lit clearing, surrounded on all sides by gnarled dead looking trees.  There's a tree stump in the center of the clearing with what appears to be a rusty hatchet embedded in it.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Grab the hatchet\",\"HATCHET1\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Grab the hatchet\",\"HATCHET1\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Grab the hatchet",
+                                "text": "\"Grab the hatchet\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "HATCHET1",
+                                "text": "\"HATCHET1\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"approach the tree stump slowly\",\"HATCHET2\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"approach the tree stump slowly\",\"HATCHET2\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "approach the tree stump slowly",
+                                "text": "\"approach the tree stump slowly\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "HATCHET2",
+                                "text": "\"HATCHET2\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "HELP",
+                "Pid": "10",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "innerText": "link-goto:\"Placeholder Text\",\"WORLDMAP1\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Placeholder Text\",\"WORLDMAP1\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Placeholder Text",
+                                "text": "\"Placeholder Text\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "WORLDMAP1",
+                                "text": "\"WORLDMAP1\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": " ",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "Name": "CONTROL",
+                "Pid": "11",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "innerText": "link-goto:\"Placeholder Text\",\"WORLDMAP1\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Placeholder Text\",\"WORLDMAP1\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Placeholder Text",
+                                "text": "\"Placeholder Text\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "WORLDMAP1",
+                                "text": "\"WORLDMAP1\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    },
+                    {
+                        "text": " ",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "Name": "HATCHET1",
+                "Pid": "12",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Double-click this passage to edit it.",
+                        "type": "text"
+                    }
+                ]
+            },
+            {
+                "Name": "HATCHET2",
+                "Pid": "13",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Double-click this passage to edit it.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ],
+        "startPid": "1"
+    }
+}

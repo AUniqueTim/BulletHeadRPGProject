@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: d975aaa7c8002de45809a70a66afc4c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6976124363566563706
+    second: squirrelltreasure_spritesheet_0
+  - first:
+      213: -8512711021091122421
+    second: squirrelltreasure_spritesheet_1
+  - first:
+      213: -7640131022438181241
+    second: squirrelltreasure_spritesheet_2
+  - first:
+      213: 5296209565451190478
+    second: squirrelltreasure_spritesheet_3
+  - first:
+      213: -8563199370112863501
+    second: squirrelltreasure_spritesheet_4
+  - first:
+      213: 5475162491631127597
+    second: squirrelltreasure_spritesheet_5
+  - first:
+      213: 7035012902479031783
+    second: squirrelltreasure_spritesheet_6
+  - first:
+      213: -8402187036520344249
+    second: squirrelltreasure_spritesheet_7
+  - first:
+      213: -1601072725982988110
+    second: squirrelltreasure_spritesheet_8
+  - first:
+      213: 7931775425125787777
+    second: squirrelltreasure_spritesheet_9
+  - first:
+      213: 3287408842076892686
+    second: squirrelltreasure_spritesheet_10
+  - first:
+      213: 2049081285720019464
+    second: squirrelltreasure_spritesheet_11
+  - first:
+      213: 3170951833860126009
+    second: squirrelltreasure_spritesheet_12
+  - first:
+      213: 1424702889244671165
+    second: squirrelltreasure_spritesheet_13
+  - first:
+      213: 5441810086413619893
+    second: squirrelltreasure_spritesheet_14
+  - first:
+      213: 6136932759064454456
+    second: squirrelltreasure_spritesheet_15
+  - first:
+      213: 4010865966390181329
+    second: squirrelltreasure_spritesheet_16
+  - first:
+      213: -2280512294418919879
+    second: squirrelltreasure_spritesheet_17
+  - first:
+      213: -753321069815818539
+    second: squirrelltreasure_spritesheet_18
+  - first:
+      213: 7477757317809084266
+    second: squirrelltreasure_spritesheet_19
+  - first:
+      213: -7100077045582013939
+    second: squirrelltreasure_spritesheet_20
+  - first:
+      213: -6044000760330278920
+    second: squirrelltreasure_spritesheet_21
+  - first:
+      213: -5436132446674052708
+    second: squirrelltreasure_spritesheet_22
+  - first:
+      213: -26917474076590653
+    second: squirrelltreasure_spritesheet_23
+  - first:
+      213: 6612699916241503013
+    second: squirrelltreasure_spritesheet_24
+  - first:
+      213: 1124559953650305909
+    second: squirrelltreasure_spritesheet_25
+  - first:
+      213: 4873477284006947306
+    second: squirrelltreasure_spritesheet_26
+  - first:
+      213: 3952851220282998423
+    second: squirrelltreasure_spritesheet_27
+  - first:
+      213: -6192754204448356305
+    second: squirrelltreasure_spritesheet_28
+  - first:
+      213: 341498282178835732
+    second: squirrelltreasure_spritesheet_29
+  - first:
+      213: 7543156073297790097
+    second: squirrelltreasure_spritesheet_30
+  - first:
+      213: -1156361131971416946
+    second: squirrelltreasure_spritesheet_31
+  - first:
+      213: -7612810781511694033
+    second: squirrelltreasure_spritesheet_32
+  - first:
+      213: -4486405424460169157
+    second: squirrelltreasure_spritesheet_33
+  - first:
+      213: -5531989038778555149
+    second: squirrelltreasure_spritesheet_34
+  - first:
+      213: -4653159102856968103
+    second: squirrelltreasure_spritesheet_35
+  - first:
+      213: 2024099373540698435
+    second: squirrelltreasure_spritesheet_36
+  - first:
+      213: -3359279751002151385
+    second: squirrelltreasure_spritesheet_37
+  - first:
+      213: -5124200744794126070
+    second: squirrelltreasure_spritesheet_38
+  - first:
+      213: 2366798701640454059
+    second: squirrelltreasure_spritesheet_39
+  - first:
+      213: 9114270660912350869
+    second: squirrelltreasure_spritesheet_40
+  - first:
+      213: 5998100130278270127
+    second: squirrelltreasure_spritesheet_41
+  - first:
+      213: -307500712614705301
+    second: squirrelltreasure_spritesheet_42
+  - first:
+      213: -6698269033833408499
+    second: squirrelltreasure_spritesheet_43
+  - first:
+      213: 4282070274238881101
+    second: squirrelltreasure_spritesheet_44
+  - first:
+      213: 3720889285678503082
+    second: squirrelltreasure_spritesheet_45
+  - first:
+      213: -1021593207201358431
+    second: squirrelltreasure_spritesheet_46
+  - first:
+      213: 3332821057225363151
+    second: squirrelltreasure_spritesheet_47
+  - first:
+      213: 6269932355065190888
+    second: squirrelltreasure_spritesheet_48
+  - first:
+      213: 4241714505373149913
+    second: squirrelltreasure_spritesheet_49
+  - first:
+      213: 4282058182494874240
+    second: squirrelltreasure_spritesheet_50
+  - first:
+      213: -7108888514909176582
+    second: squirrelltreasure_spritesheet_51
+  - first:
+      213: -3224038428899190144
+    second: squirrelltreasure_spritesheet_52
+  - first:
+      213: 2511057748325633083
+    second: squirrelltreasure_spritesheet_53
+  - first:
+      213: 3133551890258108518
+    second: squirrelltreasure_spritesheet_54
+  - first:
+      213: 2323903917781145060
+    second: squirrelltreasure_spritesheet_55
+  - first:
+      213: 4700401321990520898
+    second: squirrelltreasure_spritesheet_56
+  - first:
+      213: -5217889495896700036
+    second: squirrelltreasure_spritesheet_57
+  - first:
+      213: 2600589418002701675
+    second: squirrelltreasure_spritesheet_58
+  - first:
+      213: 8674203270671500120
+    second: squirrelltreasure_spritesheet_59
+  - first:
+      213: -6263970184789411335
+    second: squirrelltreasure_spritesheet_60
+  - first:
+      213: -426904335732915599
+    second: squirrelltreasure_spritesheet_61
+  - first:
+      213: 1589718786279780722
+    second: squirrelltreasure_spritesheet_62
+  - first:
+      213: -1865253484813736147
+    second: squirrelltreasure_spritesheet_63
+  - first:
+      213: -8454575284608289941
+    second: squirrelltreasure_spritesheet_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1810
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e1bfe188e14e45b7cb64d07166f1f
+      internalID: 6976124363566563706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1810
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395e14d42edfb946a234778a2b8ab27
+      internalID: -8512711021091122421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1810
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa5a027d5758840bf880181abd49a6
+      internalID: -7640131022438181241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1810
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4905e62a539dd44ae816db8561ac22
+      internalID: 5296209565451190478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1810
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490441af665f824d86c14c6436e9feb
+      internalID: -8563199370112863501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6434c181f4b3448715fe146567106
+      internalID: 5475162491631127597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1370
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2948d1d2a6f2445a2cb9a495262ddd
+      internalID: 7035012902479031783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1370
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35eebd380598846b44efb6f7c17e21
+      internalID: -8402187036520344249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1370
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00282d2aa2484438b512e2d605ec80
+      internalID: -1601072725982988110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1370
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581a381cb298c24f877102bdaa86279
+      internalID: 7931775425125787777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50fbbe8e410a244bd177df12f9f58c
+      internalID: 3287408842076892686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 930
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45094b37ed897d847b192c284d3ec403
+      internalID: 2049081285720019464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 930
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a821bcd9f435794aa49b92dc9829ff8
+      internalID: 3170951833860126009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 930
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01899df216edb4b820cf9c519b0f08
+      internalID: 1424702889244671165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 930
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95472c902135441a863112f0c0998f
+      internalID: 5441810086413619893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b9285ed5e9e9448cb2faca6d0244e
+      internalID: 6136932759064454456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 490
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec839af073d584eb0deb7bc81f3838
+      internalID: 4010865966390181329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 490
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85a9419b7d16241bfd35701a4a6054
+      internalID: -2280512294418919879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 490
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97b431c832a2a4fb20598b9d13dd9d
+      internalID: -753321069815818539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 490
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f014d46c740884597fb1c10c21b08a
+      internalID: 7477757317809084266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33447eb540f4cb24297b5ea6d77c1b57
+      internalID: -7100077045582013939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 50
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afbf36e0daa4c64ba510c4b34783ac4
+      internalID: -6044000760330278920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 50
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f205e23c3d0654e8f03bba9b0b99a3
+      internalID: -5436132446674052708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrelltreasure_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 50
+        width: 560
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be371ce219333d4586ddcba0492e0dc
+      internalID: -26917474076590653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
